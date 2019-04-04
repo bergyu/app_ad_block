@@ -6,7 +6,11 @@
 
 # 小米桌面（文件夹应用推荐）
 127.0.0.1 t1.market.xiaomi.com
+127.0.0.1 b0.market.xiaomi.com
+127.0.0.1 b1.market.xiaomi.com
 127.0.0.1 b2.market.xiaomi.com
+127.0.0.1 b3.market.xiaomi.com
+127.0.0.1 b0.market.mi-img.com
 127.0.0.1 b1.market.mi-img.com
 127.0.0.1 b2.market.mi-img.com
 127.0.0.1 b3.market.mi-img.com
