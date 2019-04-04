@@ -13,6 +13,9 @@
 # 小米浏览器
 127.0.0.1 f4.market.mi-img.com
 
+# 小米日历
+127.0.0.1 abtest.mistat.xiaomi.com
+
 127.0.0.1 *.market.xiaomi.com
 127.0.0.1 f1.market.xiaomi.com
 127.0.0.1 f2.market.xiaomi.com
@@ -45,7 +48,6 @@
 #0.0.0.0 data.mistat.xiaomi.com
 #0.0.0.0 a.stat.xiaomi.com
 #0.0.0.0 a.union.mi.com
-# 0.0.0.0 abtest.mistat.xiaomi.com
 # 0.0.0.0 adinfo.ra1.xlmc.sec.miui.com
 # 0.0.0.0 api.ra2.xlmc.sec.miui.com
 # 0.0.0.0 api.tuisong.baidu.com
