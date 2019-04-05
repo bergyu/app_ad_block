@@ -1,32 +1,72 @@
 # MTP主机（抓包是这个app的广告）
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
-127.0.0.1 f5.market.mi-img.com
-127.0.0.1 ts.market.mi-img.com
+127.0.0.1 adv.sec.miui.com
+127.0.0.1 zeus.ad.xiaomi.com
 
-# 小米桌面（文件夹应用推荐）
-127.0.0.1 t1.market.xiaomi.com
+# 127.0.0.1 *.ad.mi.com
+# 127.0.0.1 *.ad.xiaomi.com
+# 127.0.0.1 new.api.ad.xiaomi.com
+# 127.0.0.1 e.ad.xiaomi.com
+# 127.0.0.1 cdn.ad.xiaomi.com
+# 127.0.0.1 ad1.xiaomi.com
+
+#小米游戏视频
+127.0.0.1 video.kts.g.mi.com
+127.0.0.1 pic.kts.g.mi.com
+127.0.0.1 mivideo.g.mi.com
+127.0.0.1 migc.activity.g.mi.com
+127.0.0.1 app.migc.g.mi.com
+127.0.0.1 app.migc.xiaomi.com
+127.0.0.1 i1.market.mi-img.com
+127.0.0.1 i2.market.mi-img.com
+127.0.0.1 i3.market.mi-img.com
+127.0.0.1 i4.market.mi-img.com
+127.0.0.1 i5.market.mi-img.com
+127.0.0.1 t1.g.mi.com
+
+#天气资讯
+127.0.0.1 wtradv.market.xiaomi.com
+
+# 应用推荐
 127.0.0.1 b0.market.xiaomi.com
 127.0.0.1 b1.market.xiaomi.com
 127.0.0.1 b2.market.xiaomi.com
 127.0.0.1 b3.market.xiaomi.com
+127.0.0.1 fn.market.xiaomi.com
+
+
+127.0.0.1 t1.market.xiaomi.com
+127.0.0.1 t2.market.xiaomi.com
+127.0.0.1 t3.market.xiaomi.com
+
 127.0.0.1 b0.market.mi-img.com
 127.0.0.1 b1.market.mi-img.com
 127.0.0.1 b2.market.mi-img.com
 127.0.0.1 b3.market.mi-img.com
-127.0.0.1 110.185.186.41
-127.0.0.1 fn.market.xiaomi.com
+127.0.0.1 f4.market.mi-img.com
+127.0.0.1 f5.market.mi-img.com
+127.0.0.1 t1.market.mi-img.com
+127.0.0.1 t2.market.mi-img.com
+127.0.0.1 t3.market.mi-img.com
+127.0.0.1 ts.market.mi-img.com
 
-# 小米应用商店（应忽略）
-# 127.0.0.1 t1.market.xiaomi.com
+127.0.0.1 app.market.xiaomi.com/desktopfolder
+
+
+
+# 小米应用商店下载app（应忽略）
+# 127.0.0.1 b5.market.xiaomi.com
+# 127.0.0.1 b6.market.xiaomi.com
+# 127.0.0.1 b7.market.xiaomi.com
 
 # 小米浏览器
-127.0.0.1 f4.market.mi-img.com
+
 
 # 小米日历
-127.0.0.1 abtest.mistat.xiaomi.com
+# 127.0.0.1 abtest.mistat.xiaomi.com
 
-127.0.0.1 *.market.xiaomi.com
+# 127.0.0.1 *.market.xiaomi.com
 # 127.0.0.1 f1.market.xiaomi.com
 # 127.0.0.1 f2.market.xiaomi.com
 # 127.0.0.1 f3.market.xiaomi.com
@@ -38,8 +78,6 @@
 # 127.0.0.1 t4.a.market.xiaomi.com
 # 127.0.0.1 t5.a.market.xiaomi.com
 
-
-127.0.0.1 *.market.mi-img.com
 # 127.0.0.1 f1.market.mi-img.com
 # 127.0.0.1 f2.market.mi-img.com
 # 127.0.0.1 f3.market.mi-img.com
@@ -48,13 +86,10 @@
 # 127.0.0.1 ts.market.mi-img.com
 
 
-127.0.0.1 *.ad.mi.com
-127.0.0.1 *.ad.xiaomi.com
-127.0.0.1 new.api.ad.xiaomi.com
-127.0.0.1 ad1.xiaomi.com
+
+
 
 #从其他地方复制来的
-#0.0.0.0 adv.sec.miui.com
 #0.0.0.0 data.mistat.xiaomi.com
 #0.0.0.0 a.stat.xiaomi.com
 #0.0.0.0 a.union.mi.com
@@ -68,9 +103,9 @@
 # 0.0.0.0 beha.ksmobile.com
 # 0.0.0.0 bss.pandora.xiaomi.com
 # 0.0.0.0 calopenupdate.comm.miui.com
-0.0.0.0 cdn.ad.xiaomi.com
+
 # 0.0.0.0 cm066.getui.igexin.com
-0.0.0.0 e.ad.xiaomi.com
+
 # 0.0.0.0 etl.xlmc.sandai.net
 # 0.0.0.0 fcanr.tracking.miui.com
 # 0.0.0.0 fclick.baidu.com
@@ -113,11 +148,11 @@
 # 0.0.0.0 sec.resource.xiaomi.net
 # 0.0.0.0 security.browser.miui.com
 # 0.0.0.0 sg.a.stat.mi.com
-0.0.0.0 test.zeus.ad.xiaomi.com
+# 0.0.0.0 test.zeus.ad.xiaomi.com
 # 0.0.0.0 staging.admin.e.mi.com
-0.0.0.0 test.ad.xiaomi.com
+# 0.0.0.0 test.ad.xiaomi.com
 # 0.0.0.0 test.api.xlmc.sandai.net
-0.0.0.0 test.e.ad.xiaomi.com
+# 0.0.0.0 test.e.ad.xiaomi.com
 # 0.0.0.0 tracking.miui.com
 # 0.0.0.0 tw13b093.sandai.net
 # 0.0.0.0 union.dbba.cn
@@ -132,7 +167,6 @@
 # 0.0.0.0 metok.sys.miui.com
 # 0.0.0.0 mazu.3g.qq.com
 # 0.0.0.0 shouji.sougou.com
-# 0.0.0.0 wtradv.market.xiaomi.com
 # 0.0.0.0 tools.3g.qq.com
 # 0.0.0.0 v2.reachmax.cn
 # 0.0.0.0 analytics3.starschina.com
@@ -183,4 +217,3 @@
 # 0.0.0.0 cloudservice22.kingsoft-office-service.com
 # 0.0.0.0 mo.res.wpscdn.cn
 # 0.0.0.0 mostat.wps.cn
-# 0.0.0.0 mivideo.g.mi.com
