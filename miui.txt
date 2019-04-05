@@ -3,6 +3,7 @@
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 zeus.ad.xiaomi.com
+127.0.0.1 m.track.ad.xiaomi.com
 
 #天气资讯
 127.0.0.1 wtradv.market.xiaomi.com
@@ -62,6 +63,7 @@
 
 # 小米日历
 # 127.0.0.1 abtest.mistat.xiaomi.com
+# 127.0.0.1 ts.market.mi-img.com
 
 # 127.0.0.1 *.market.xiaomi.com
 # 127.0.0.1 f1.market.xiaomi.com
