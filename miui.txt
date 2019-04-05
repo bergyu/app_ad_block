@@ -12,9 +12,9 @@
 # 127.0.0.1 ad1.xiaomi.com
 
 #小米游戏视频
-127.0.0.1 video.kts.g.mi.com
-127.0.0.1 pic.kts.g.mi.com
-127.0.0.1 mivideo.g.mi.com
+# 127.0.0.1 video.kts.g.mi.com
+# 127.0.0.1 pic.kts.g.mi.com
+# 127.0.0.1 mivideo.g.mi.com
 127.0.0.1 migc.activity.g.mi.com
 127.0.0.1 app.migc.g.mi.com
 127.0.0.1 app.migc.xiaomi.com
