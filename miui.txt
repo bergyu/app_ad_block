@@ -15,15 +15,15 @@
 # 127.0.0.1 video.kts.g.mi.com
 # 127.0.0.1 pic.kts.g.mi.com
 # 127.0.0.1 mivideo.g.mi.com
-127.0.0.1 migc.activity.g.mi.com
-127.0.0.1 app.migc.g.mi.com
-127.0.0.1 app.migc.xiaomi.com
-127.0.0.1 i1.market.mi-img.com
-127.0.0.1 i2.market.mi-img.com
-127.0.0.1 i3.market.mi-img.com
-127.0.0.1 i4.market.mi-img.com
-127.0.0.1 i5.market.mi-img.com
-127.0.0.1 t1.g.mi.com
+# 127.0.0.1 migc.activity.g.mi.com
+# 127.0.0.1 app.migc.g.mi.com
+# 127.0.0.1 app.migc.xiaomi.com
+# 127.0.0.1 i1.market.mi-img.com
+# 127.0.0.1 i2.market.mi-img.com
+# 127.0.0.1 i3.market.mi-img.com
+# 127.0.0.1 i4.market.mi-img.com
+# 127.0.0.1 i5.market.mi-img.com
+# 127.0.0.1 t1.g.mi.com
 
 #天气资讯
 127.0.0.1 wtradv.market.xiaomi.com
@@ -51,14 +51,11 @@
 127.0.0.1 t3.market.mi-img.com
 127.0.0.1 ts.market.mi-img.com
 
-127.0.0.1 app.market.xiaomi.com/desktopfolder
-
-
 
 # 小米应用商店下载app（应忽略）
-# 127.0.0.1 b5.market.xiaomi.com
-# 127.0.0.1 b6.market.xiaomi.com
-# 127.0.0.1 b7.market.xiaomi.com
+127.0.0.1 b5.market.xiaomi.com
+127.0.0.1 b6.market.xiaomi.com
+127.0.0.1 b7.market.xiaomi.com
 
 # 小米浏览器
 
